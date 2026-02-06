@@ -203,7 +203,7 @@ def interpret_message(message: str, last_location: Optional[str], lat: Any, lon:
             "coords": None,
             "location_label": None,
             "sentiment": _sentiment(msg),
-            "error": "Which location should I use? Example: **"Will it rain in Lisbon tomorrow morning?"**",
+            "error": "Which location should I use? Example: \"Will it rain in Lisbon tomorrow morning?\"",
         }
 
     return {
