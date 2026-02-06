@@ -1,0 +1,79 @@
+{
+  "temperature_now": [
+    "What's the temperature in Berlin?",
+    "How hot is it in Tokyo right now?",
+    "Tell me the temp in New York",
+    "temperature Paris",
+    "How cold is it in Oslo?"
+  ],
+  "conditions_now": [
+    "Is it sunny in Lisbon?",
+    "What's the weather like in London right now?",
+    "cloudy or clear in Madrid?",
+    "current conditions in Rome",
+    "weather in Delhi"
+  ],
+  "wind_now": [
+    "How windy is it in Hamburg?",
+    "wind speed Berlin",
+    "Tell me the wind in Cape Town",
+    "gusts in Chicago",
+    "wind now in Sydney"
+  ],
+  "humidity_now": [
+    "What's the humidity in Singapore?",
+    "humid in Bangkok?",
+    "humidity Berlin",
+    "relative humidity in Dubai",
+    "is it humid in Miami"
+  ],
+  "rain_now": [
+    "Is it raining in Amsterdam?",
+    "rain in Copenhagen now",
+    "precipitation right now in Dublin",
+    "show rain for Vienna",
+    "will it rain right now in Zurich"
+  ],
+  "snow_now": [
+    "Is it snowing in Helsinki?",
+    "snowfall in Reykjavik now",
+    "snow in Munich",
+    "is there snow in Toronto right now",
+    "snowing now in Stockholm"
+  ],
+  "tomorrow_summary": [
+    "Weather in Berlin tomorrow",
+    "tomorrow forecast for Paris",
+    "what will the weather be like tomorrow in Prague",
+    "forecast tomorrow Madrid",
+    "tomorrow weather London"
+  ],
+  "tomorrow_rain": [
+    "Will it rain in Lisbon tomorrow morning?",
+    "rain tomorrow in Berlin",
+    "is it going to rain tomorrow in Warsaw",
+    "tomorrow afternoon rain in Milan",
+    "chance of rain tomorrow in Barcelona"
+  ],
+  "next3days_summary": [
+    "3 day forecast for New York",
+    "next three days weather in Vienna",
+    "forecast next 3 days Berlin",
+    "three day outlook for Brussels",
+    "3-day forecast Tokyo"
+  ],
+  "week_summary": [
+    "Weekly forecast for Berlin",
+    "7 day weather in London",
+    "this week forecast Paris",
+    "week outlook for Amsterdam",
+    "next 7 days in Rome"
+  ],
+  "help": [
+    "help",
+    "what can you do",
+    "show me examples",
+    "commands",
+    "how do I use this"
+  ]
+}

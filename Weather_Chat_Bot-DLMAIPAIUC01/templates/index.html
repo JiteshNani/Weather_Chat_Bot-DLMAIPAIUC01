@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Global Weather Bot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="title">🌦️ Global Weather Bot</div>
+      <div class="subtitle">
+        Ask about temperature, conditions, wind, humidity, rain/snow, tomorrow, 3-day or week forecast.
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <button id="locBtn" class="btn secondary">Use my location</button>
+      <div class="hint">Try: <span class="chip">Will it rain in Lisbon tomorrow morning?</span></div>
+    </div>
+
+    <main id="chat" class="chat"></main>
+
+    <form id="chatForm" class="composer">
+      <input id="msg" type="text" placeholder="Type your weather question…" autocomplete="off" />
+      <button class="btn" type="submit">Ask</button>
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
