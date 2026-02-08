@@ -1,4 +1,4 @@
-# Global Weather Forecast Chatbot (Phase-1 aligned)
+# Global Weather Forecast Chatbot 
 
 A browser-based chatbot that answers weather questions for locations worldwide.
 
